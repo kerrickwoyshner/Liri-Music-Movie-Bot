@@ -1,4 +1,4 @@
-# Liriiiii I'm hoooooooome!
+# Liiiirii I'm hoooooooome!
 
 Your favorite Command Line music, movie, and text browser!
 
