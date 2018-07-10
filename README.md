@@ -1,4 +1,4 @@
-# liri-node-app
+# Liriiiii I'm hoooooooome!
 
 Your favorite Command Line music, movie, and text browser!
 
