@@ -19,7 +19,7 @@ From here, you have several options at your disposal:
 
 If no song is provided, your program will default to "The Sign" by Ace of Base... even tho Pitch Perfect's version is better, in my opinion.
 
-<img src="spotify-this-song.PNG" width="100%" height="100%">
+<img src="images/spotify-this-song.PNG" width="100%" height="100%">
 
 3. node liri.js movie-this "<movie name here>" => displays the following information to your terminal/bash window:
 
@@ -34,11 +34,11 @@ If no song is provided, your program will default to "The Sign" by Ace of Base..
 
 If the user does not type a movie in after 'movie-this', the program will output data for the movie "Mr. Nobody"
 
-<img src="movie-this.PNG" width="100%" height="100%">
+<img src="images/movie-this.PNG" width="100%" height="100%">
 
 4. node liri.js do-what-it-says => LIRI will take the text inside of random.txt and use it to call one of LIRI's commands.  Check out the current random.txt file to see what you can expect before editing it on your own!
 
-<img src="do-what-it-says.PNG" width="100%" height="100%">
+<img src="images/do-what-it-says.PNG" width="100%" height="100%">
 
 5. Using liriBonus.js instead of liri.js will output the data to log.txt in addition to your terminal/bash window.
 
